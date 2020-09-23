@@ -1,2 +1,3 @@
 # myrepo
-testing my setup
+This line is written in RStudio.
+I want to drink milk tea. 
